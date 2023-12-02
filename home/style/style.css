@@ -687,10 +687,6 @@ body {
 
 @media (300px <=width <=840px) {
 
-    .container {
-        max-width: 768px;
-    }
-
     .btn-cup::after {
         transform: scale(1);
         content-visibility: visible;
